@@ -1,0 +1,15 @@
+{
+  "name": "Node-Mongo-Course",
+  "version": "1.0.0",
+  "description": "- to test isntallation db: `mongod --version` - to test isntallation shell: `mongo --version`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.30"
+  }
+}
